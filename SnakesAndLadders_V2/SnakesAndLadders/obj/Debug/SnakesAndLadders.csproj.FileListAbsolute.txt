@@ -1,0 +1,10 @@
+C:\Users\Michele\source\repos\SnakesAndLadders\SnakesAndLadders\bin\Debug\SnakesAndLadders.exe.config
+C:\Users\Michele\source\repos\SnakesAndLadders\SnakesAndLadders\bin\Debug\SnakesAndLadders.exe
+C:\Users\Michele\source\repos\SnakesAndLadders\SnakesAndLadders\bin\Debug\SnakesAndLadders.pdb
+C:\Users\Michele\source\repos\SnakesAndLadders\SnakesAndLadders\obj\Debug\SnakesAndLadders.frmGame.resources
+C:\Users\Michele\source\repos\SnakesAndLadders\SnakesAndLadders\obj\Debug\SnakesAndLadders.Properties.Resources.resources
+C:\Users\Michele\source\repos\SnakesAndLadders\SnakesAndLadders\obj\Debug\SnakesAndLadders.csproj.GenerateResource.cache
+C:\Users\Michele\source\repos\SnakesAndLadders\SnakesAndLadders\obj\Debug\SnakesAndLadders.csproj.CoreCompileInputs.cache
+C:\Users\Michele\source\repos\SnakesAndLadders\SnakesAndLadders\obj\Debug\SnakesAndLadders.exe
+C:\Users\Michele\source\repos\SnakesAndLadders\SnakesAndLadders\obj\Debug\SnakesAndLadders.pdb
+C:\Users\Michele\source\repos\SnakesAndLadders\SnakesAndLadders\obj\Debug\SnakesAndLadders.csprojAssemblyReference.cache
